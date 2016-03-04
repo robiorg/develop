@@ -1,5 +1,5 @@
 # develop robiorg
-[![Build Status](https://secure.travis-ci.org/robiorg/develop.svg?branch=master)](https://travis-ci.org/robiorgys/develop)
+[![Build Status](https://secure.travis-ci.org/robiorg/develop.svg?branch=master)](https://travis-ci.org/robiorg/develop)
 
 # rust-lang  
 * cargo   
